@@ -1,0 +1,25 @@
+--- time:  13:35:59 debug nr : 1 record start ----
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+--- record end ----
+--- time:  13:36:01 debug nr : 2 record start ----
+test
+jjj
+hhh
+ghjkl
+--- record end ----
+--- time:  13:36:04 debug nr : 3 record start ----
+debug
+test
+jjj
+hhh
+ghjkl
+--- record end ----
